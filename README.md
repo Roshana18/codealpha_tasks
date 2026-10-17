@@ -1,4 +1,3 @@
-
 # CodeAlpha Tasks
 
 Welcome to my project collection!
@@ -13,4 +12,4 @@ Description: My first project.
 ### Project 2
 Description: My second project.
 
-[View Project 2](https://github.com/Roshana18/ConnectHub-SocialMedia)
+[View Project 2](https://github.com/Roshana18/ConnectHub_SocialMedia)
